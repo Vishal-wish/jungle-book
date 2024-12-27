@@ -1,0 +1,9 @@
+header{
+    background: url("../assets/Home.png") no-repeat center/cover fixed;
+}
+
+@media(max-width: 1096px){
+    .hide-mobile-menu{
+        right: -100%;
+    }
+}
